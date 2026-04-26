@@ -43,6 +43,6 @@ This policy may be updated from time to time. Updates are reflected on this page
 
 For privacy questions, contact:
 
-- GitHub: https://github.com/batugokce
+- Email: gingersfingersdev@gmail.com
 
 **Package name:** `dev.gingersfingers.tapassist`
